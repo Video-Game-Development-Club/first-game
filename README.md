@@ -6,9 +6,11 @@ https://goo.gl/forms/41pcJNEsAohMEFao1
 
 Vote on a game at this link:
 https://goo.gl/forms/g0YSVa2mQPcC0Lto1
-
+Discord
+https://video-game-development-club.github.io/VGD/Contacts.html
 
 Basic Game Story from winning submission:
+
 
 NOTE: ALL IDEAS HERE CAN BE CHANGED THROUGHOUT THE DEVELOPEMENT PROCESS. THESE ARE JUST THE IDEAS OF THE SUBMISSION, BUT THEY ARE STILL THE BASIS OF THE GAME
 
