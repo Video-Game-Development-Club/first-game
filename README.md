@@ -27,6 +27,7 @@ People can make original characters to place as bosses. Defeating a boss will un
 |new|
 |Story|
 bosses leave graphic effects on the game, and your goal is to return the game to normal. Defeating bosses changes a graphics style.
-|new art style|dead cells type style, semi cartoonish
+<br>
+|new art style| dead cells type style, semi cartoonish
   
 Approx. 20 by 70 pixel sprites.
