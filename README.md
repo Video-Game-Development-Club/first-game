@@ -2,10 +2,13 @@
 The first game that will be created by the Video Game Development Club!
 
 Click on the link to add a game idea.
-https://goo.gl/forms/41pcJNEsAohMEFao1
+https://goo.gl/forms/41pcJNEsAohMEFao1 // no longer available
 
 Vote on a game at this link:
-https://goo.gl/forms/g0YSVa2mQPcC0Lto1
+https://goo.gl/forms/g0YSVa2mQPcC0Lto1 // no longer available
+
+Discord channel
+https://discordapp.com/widget?id=292764943982264321&theme=dark
 
 
 Basic Game Story from winning submission:
