@@ -43,3 +43,7 @@ bosses are corrupted people, graphic effects create enemies from normal people
 9 stages, first stage is simulation, after simulation you wake up, first boos(simulation is shadow)
 
 bosses have different stats.
+
+half animal character, winged character, cyborg, acrobat, stealthy character, heavy hitter, large
+
+
